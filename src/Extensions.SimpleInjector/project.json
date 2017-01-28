@@ -1,0 +1,18 @@
+{
+  "title": "ContainerAbstraction.Core.Extensions.SimpleInjector",
+  "copyright": "Toto",
+  "description": "Extension methods enabling SimpleInjector to an abstract configuration.",
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Configure": "1.0.0-*",
+    "NETStandard.Library": "1.6.0",
+    "SimpleInjector": "4.0.0-alpha3"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
